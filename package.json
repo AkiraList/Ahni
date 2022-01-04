@@ -1,0 +1,23 @@
+{
+  "name": "ahni",
+  "version": "1.0.0",
+  "description": "A part of the code for Ahni#7641 discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "discordjs",
+    "bot",
+    "nsfw",
+    "lewds"
+  ],
+  "author": "Xynnix",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^13.5.0",
+    "dotenv": "^10.0.0",
+    "lewds.api": "^2.3.5"
+  }
+}
